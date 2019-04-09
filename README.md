@@ -13,11 +13,11 @@
 
 ### Microblogging (Twitter)
 _Stable_
-* [Mastodon](https://github.com/tootsuite/mastodon) - Ruby - Mainstream reference design
+* :star:[Mastodon](https://github.com/tootsuite/mastodon) - Ruby - Mainstream reference design
   * [glitch-soc](https://github.com/glitch-soc/mastodon/) - A glitchy but lovable fork
   * [mastodo](https://github.com/gled-rs/mastodo) - implementing useful features not implemented upstream
-* [Pleroma](https://pleroma.social/) - Elixir/Erlang - High Performance with seperated BE/FE design
-* [Misskey](https://github.com/syuilo/misskey) - NodeJS - "forever evolving, sophisticated microblogging platform" with lots of anime girls.
+* :star:[Pleroma](https://pleroma.social/) - Elixir/Erlang - High Performance with seperated BE/FE design
+* :star:[Misskey](https://github.com/syuilo/misskey) - NodeJS - "forever evolving, sophisticated microblogging platform" with lots of anime girls.
 * [Nextcloud Social](https://github.com/nextcloud/social) - NodeJS - Nextcloud becomes part of the federated social networks!
 * [microblog.pub](https://github.com/tsileo/microblog.pub) - Python - self-hosted, single-user, ActivityPub powered microblog.
 
@@ -27,16 +27,16 @@ _WIP_
 
 ### Video Streaming (YouTube)
 _Stable_
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) - NodeJS - Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
+* :star:[PeerTube](https://github.com/Chocobozzz/PeerTube) - NodeJS - Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
 
 ### Image Sharing (Instagram)
 _Stable_
-* [PixelFed](https://github.com/pixelfed/pixelfed) - PHP -  Free and ethical photo sharing platform
+* :star:[PixelFed](https://github.com/pixelfed/pixelfed) - PHP -  Free and ethical photo sharing platform
 
 ### Blogging
 _Stable_
-* [Plume](https://github.com/Plume-org/Plume) - Rust -  federated blogging engine
-* [WriteFreely](https://github.com/writeas/writefreely) - Go - federated blogging engine
+* :star:[Plume](https://github.com/Plume-org/Plume) - Rust -  federated blogging engine
+* :star:[WriteFreely](https://github.com/writeas/writefreely) - Go - federated blogging engine
 
 ### Music (Soundcloud)
 _Stable_
