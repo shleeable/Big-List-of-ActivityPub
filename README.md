@@ -15,6 +15,7 @@ _Stable_
 * [Misskey](https://github.com/syuilo/misskey) - NodeJS based - "forever evolving, sophisticated microblogging platform" with lots of anime girls.
 
 _WIP_
+* [Kibou](https://git.cybre.club/kibouproject/kibou) - Rust based Mastodon-compatible server
 * [Rustodon](https://github.com/rustodon/rustodon) - Rust based Mastodon-compatible server
 
 ### Video Streaming (YouTube)
@@ -23,11 +24,11 @@ _Stable_
 
 ### Image Sharing (Instagram)
 _Stable_
-* [PixelFed](https://github.com/pixelfed/pixelfed) -  Free and ethical photo sharing platform
+* [PixelFed](https://github.com/pixelfed/pixelfed) - PHP Based -  Free and ethical photo sharing platform
 
 ### Music (Soundcloud)
 _Stable_
-* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) -  
+* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) - ? based -
 
 ### Blogging
 _Stable_
