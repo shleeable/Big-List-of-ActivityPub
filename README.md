@@ -14,9 +14,9 @@ Stable
 
 ### Microblogging (Twitter)
 Stable
-* [Mastodon](https://github.com/tootsuite/mastodon) - Ruby based microblogging platform
-* [Pleroma](https://pleroma.social/) - Elixir/Erlang based microblogging platform
-* [Misskey](https://github.com/syuilo/misskey) - NodeJS based microblogging platform.
+* [Mastodon](https://github.com/tootsuite/mastodon) - Ruby based - Mainstream reference design
+* [Pleroma](https://pleroma.social/) - Elixir/Erlang based - High Performance with seperated BE/FE design
+* [Misskey](https://github.com/syuilo/misskey) - NodeJS based - "forever evolving, sophisticated microblogging platform" with lots of anime girls.
 
 WIP
 * [Rustodon](https://github.com/rustodon/rustodon) - rust based Mastodon-compatible, ActivityPub-speaking server 
