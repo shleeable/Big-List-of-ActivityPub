@@ -3,7 +3,7 @@
 
 *W3 Quote:* "The ActivityPub protocol is a decentralized social networking protocol. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and content."
 
-*Shlee:* "ActivityPub is the idea of splitting online services from one primary services into their own shards who are able to communicate with each other -- Turning the Twittersphere into thousands of little twitters."
+*Shlee:* "ActivityPub is the idea of splitting online services into tiny self hosted pieces - Turning privately owned services like twitter into thousands of little twitters, who are able to communicate with each other as you would expect - Giving power and control back to the many."
 
 
 * [https://activitypub.rocks/](https://activitypub.rocks/)
