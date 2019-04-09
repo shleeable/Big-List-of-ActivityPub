@@ -11,6 +11,7 @@ The ActivityPub protocol is a decentralized social networking protocol based upo
 ### Microblogging (Twitter)
 _Stable_
 * [Mastodon](https://github.com/tootsuite/mastodon) - Ruby based - Mainstream reference design
+** [glitch-soc](https://github.com/glitch-soc/mastodon/) - A glitchy but lovable fork
 * [Pleroma](https://pleroma.social/) - Elixir/Erlang based - High Performance with seperated BE/FE design
 * [Misskey](https://github.com/syuilo/misskey) - NodeJS based - "forever evolving, sophisticated microblogging platform" with lots of anime girls.
 
