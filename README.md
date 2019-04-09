@@ -25,7 +25,7 @@ Stable
 Stable
 * [PixelFed](https://github.com/pixelfed/pixelfed) -  Free and ethical photo sharing platform
 
-## non-existant but dream products
+## Mainstream services suitable to be replaced with ActivityPub
 
 ### Personal Blogging (Tumblr / Livejournal)
 ### Music (Soundcloud)
