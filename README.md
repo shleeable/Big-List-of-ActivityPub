@@ -15,7 +15,7 @@ Stable
 * [Misskey](https://github.com/syuilo/misskey) - NodeJS based - "forever evolving, sophisticated microblogging platform" with lots of anime girls.
 
 WIP
-* [Rustodon](https://github.com/rustodon/rustodon) - rust based Mastodon-compatible, ActivityPub-speaking server 
+* [Rustodon](https://github.com/rustodon/rustodon) - Rust based Mastodon-compatible server
 
 ### Video Streaming (YouTube)
 Stable
