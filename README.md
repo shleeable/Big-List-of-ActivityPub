@@ -13,34 +13,40 @@
 
 ### Microblogging (Twitter)
 _Stable_
-* [Mastodon](https://github.com/tootsuite/mastodon) - Ruby based - Mainstream reference design
+* [Mastodon](https://github.com/tootsuite/mastodon) - Ruby - Mainstream reference design
   * [glitch-soc](https://github.com/glitch-soc/mastodon/) - A glitchy but lovable fork
-* [Pleroma](https://pleroma.social/) - Elixir/Erlang based - High Performance with seperated BE/FE design
-* [Misskey](https://github.com/syuilo/misskey) - NodeJS based - "forever evolving, sophisticated microblogging platform" with lots of anime girls.
+* [Pleroma](https://pleroma.social/) - Elixir/Erlang - High Performance with seperated BE/FE design
+* [Misskey](https://github.com/syuilo/misskey) - NodeJS - "forever evolving, sophisticated microblogging platform" with lots of anime girls.
 
 _WIP_
-* [Kibou](https://git.cybre.club/kibouproject/kibou) - Rust based Mastodon-compatible server
-* [Rustodon](https://github.com/rustodon/rustodon) - Rust based Mastodon-compatible server
+* [Kibou](https://git.cybre.club/kibouproject/kibou) - Rust - Mastodon-compatible server
+* [Rustodon](https://github.com/rustodon/rustodon) - Rust - Mastodon-compatible server
 
 ### Video Streaming (YouTube)
 _Stable_
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) - NodeJS based Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) - NodeJS - Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
 
 ### Image Sharing (Instagram)
 _Stable_
-* [PixelFed](https://github.com/pixelfed/pixelfed) - PHP Based -  Free and ethical photo sharing platform
+* [PixelFed](https://github.com/pixelfed/pixelfed) - PHP -  Free and ethical photo sharing platform
 
 ### Blogging
 _Stable_
-* [Plume](https://github.com/Plume-org/Plume) - Rust Based -  federated blogging engine
-* [WriteFreely](https://github.com/writeas/writefreely) - Go Based - federated blogging engine
+* [Plume](https://github.com/Plume-org/Plume) - Rust -  federated blogging engine
+* [WriteFreely](https://github.com/writeas/writefreely) - Go - federated blogging engine
 
 ### Music (Soundcloud)
 _Stable_
-* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) - ? based -
+* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) - ? -
 
 _WIP_
-* [Reel2Bits](https://github.com/rhaamo/reel2bits) - Python based -
+* [Reel2Bits](https://github.com/rhaamo/reel2bits) - Python -
+
+## Other ActivityPub enabled projects (Unknown stablility)
+* [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - Rust - Powering connected social communities
+* []() - ? - 
+* []() - ? - 
+* []() - ? - 
 
 
 ## Mainstream services suitable to be replaced with ActivityPub
