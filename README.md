@@ -9,15 +9,27 @@ The ActivityPub protocol is a decentralized social networking protocol based upo
 ## Alternatives to other Mainstream services
 
 ### Video Streaming (YouTube)
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) - Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
+Stable
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) - NodeJS based Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
 
 ### Microblogging (Twitter)
+Stable
 * [Mastodon](https://github.com/tootsuite/mastodon) - Ruby based microblogging platform
 * [Pleroma](https://pleroma.social/) - Elixir/Erlang based microblogging platform
 * [Misskey](https://github.com/syuilo/misskey) - NodeJS based microblogging platform.
 
+WIP
+* [Rustodon](https://github.com/rustodon/rustodon) - rust based Mastodon-compatible, ActivityPub-speaking server 
+
 ### Image Sharing (Instagram)
+Stable
 * [PixelFed](https://github.com/pixelfed/pixelfed) -  Free and ethical photo sharing platform
 
+### Image Sharing (Flickr)
+* None
+
 ### Tumblr
+* None
+
+### Music (Soundcloud)
 * None
