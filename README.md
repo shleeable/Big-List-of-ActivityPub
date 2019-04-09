@@ -42,6 +42,6 @@ _Stable_
 
 ## Mainstream services suitable to be replaced with ActivityPub
 
-* Personal Blogging (Tumblr / Livejournal)
+* Social Blogging (Tumblr / Livejournal)
 
 * Mega Image Sharing (Flickr)
