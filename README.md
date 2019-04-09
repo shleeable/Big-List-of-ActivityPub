@@ -1,7 +1,7 @@
 # Big-List-of-ActivityPub
 > The Big List of ActivityPub Projects!
 
-The ActivityPub protocol is a decentralized social networking protocol based upon the [ActivityStreams] 2.0 data format. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and content.
+The ActivityPub protocol is a decentralized social networking protocol. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and content.
 
 * [https://activitypub.rocks/](https://activitypub.rocks/)
 * [https://www.w3.org/TR/activitypub/](https://www.w3.org/TR/activitypub/)
