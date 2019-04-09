@@ -41,12 +41,17 @@ _Stable_
 ### Music (Soundcloud)
 _Stable_
 * [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) - ? -
-* [Soundstorm](https://github.com/weathermen/soundstorm) - Ruby - Federated Social Music Platform.
 
 _WIP_
+* [Soundstorm](https://github.com/weathermen/soundstorm) - Ruby - Federated Social Music Platform.
 * [Reel2Bits](https://github.com/rhaamo/reel2bits) - Python -
 
-## Other ActivityPub enabled projects (Unknown stablility)
+## Other ActivityPub enabled projects
+* [Pump.io](https://github.com/pump-io/pump.io) - NodeJS - Social network
+* [Distbin](https://github.com/gobengo/distbin) - NodeJS - Post bin with distributed social features.
+* [Anancus](https://gitlab.com/tuxether/anancus) - Go - self-hosted and federated social link aggregation.
+* [Hubzilla](https://framagit.org/hubzilla/core) - PHP - powerful platform for creating interconnected websites.
+* [Dokieli](https://github.com/linkeddata/dokieli) - NodeJS - decentralised article publishing, annotations and social interactions.
 * [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - Rust - Powering connected social communities
 * [MeowCat2](https://github.com/cabalamat/meowcat2) - Python - federated blogging and social networking platform
 * [Lemmy](https://github.com/dessalines/lemmy) - Rust - federated alternative to reddit
