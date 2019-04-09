@@ -25,8 +25,18 @@ _Stable_
 _Stable_
 * [PixelFed](https://github.com/pixelfed/pixelfed) -  Free and ethical photo sharing platform
 
+### Music (Soundcloud)
+_Stable_
+* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) -  
+
+### Blogging
+_Stable_
+* [Plume](https://github.com/Plume-org/Plume) - Rust Based -  federated blogging engine
+* [WriteFreely](https://github.com/writeas/writefreely) - Go Based - federated blogging engine
+
+
 ## Mainstream services suitable to be replaced with ActivityPub
 
 * Personal Blogging (Tumblr / Livejournal)
-* Music (Soundcloud)
+
 * Mega Image Sharing (Flickr)
