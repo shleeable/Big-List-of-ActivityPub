@@ -30,17 +30,17 @@ _Stable_
 _Stable_
 * [PixelFed](https://github.com/pixelfed/pixelfed) - PHP Based -  Free and ethical photo sharing platform
 
+### Blogging
+_Stable_
+* [Plume](https://github.com/Plume-org/Plume) - Rust Based -  federated blogging engine
+* [WriteFreely](https://github.com/writeas/writefreely) - Go Based - federated blogging engine
+
 ### Music (Soundcloud)
 _Stable_
 * [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) - ? based -
 
 _WIP_
 * [Reel2Bits](https://github.com/rhaamo/reel2bits) - Python based -
-
-### Blogging
-_Stable_
-* [Plume](https://github.com/Plume-org/Plume) - Rust Based -  federated blogging engine
-* [WriteFreely](https://github.com/writeas/writefreely) - Go Based - federated blogging engine
 
 
 ## Mainstream services suitable to be replaced with ActivityPub
