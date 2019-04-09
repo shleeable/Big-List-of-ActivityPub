@@ -12,12 +12,12 @@ The ActivityPub protocol is a decentralized social networking protocol based upo
 * [PeerTube](https://github.com/Chocobozzz/PeerTube) - Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
 
 ### Microblogging (Twitter)
-* [Mastodon](https://github.com/tootsuite/mastodon) - Your self-hosted, globally interconnected microblogging community
-* [Pleroma](https://pleroma.social/) - 
-* [Misskey](https://github.com/syuilo/misskey)
+* [Mastodon](https://github.com/tootsuite/mastodon) - Ruby based microblogging platform
+* [Pleroma](https://pleroma.social/) - Elixir/Erlang based microblogging platform
+* [Misskey](https://github.com/syuilo/misskey) - NodeJS based microblogging platform.
 
 ### Image Sharing (Instagram)
-* [PixelFed](https://github.com/pixelfed/pixelfed)
+* [PixelFed](https://github.com/pixelfed/pixelfed) -  Free and ethical photo sharing platform
 
 ### Tumblr
 * None
