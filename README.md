@@ -27,6 +27,6 @@ Stable
 
 ## Mainstream services suitable to be replaced with ActivityPub
 
-### Personal Blogging (Tumblr / Livejournal)
-### Music (Soundcloud)
-### Mega Image Sharing (Flickr)
+* Personal Blogging (Tumblr / Livejournal)
+* Music (Soundcloud)
+* Mega Image Sharing (Flickr)
