@@ -8,10 +8,6 @@ The ActivityPub protocol is a decentralized social networking protocol based upo
 
 ## Alternatives to other Mainstream services
 
-### Video Streaming (YouTube)
-Stable
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) - NodeJS based Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
-
 ### Microblogging (Twitter)
 Stable
 * [Mastodon](https://github.com/tootsuite/mastodon) - Ruby based - Mainstream reference design
@@ -21,15 +17,16 @@ Stable
 WIP
 * [Rustodon](https://github.com/rustodon/rustodon) - rust based Mastodon-compatible, ActivityPub-speaking server 
 
+### Video Streaming (YouTube)
+Stable
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) - NodeJS based Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
+
 ### Image Sharing (Instagram)
 Stable
 * [PixelFed](https://github.com/pixelfed/pixelfed) -  Free and ethical photo sharing platform
 
-### Image Sharing (Flickr)
-* None
+## non-existant but dream products
 
-### Tumblr
-* None
-
+### Personal Blogging (Tumblr / Livejournal)
 ### Music (Soundcloud)
-* None
+### Mega Image Sharing (Flickr)
