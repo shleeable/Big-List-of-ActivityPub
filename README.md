@@ -21,10 +21,10 @@ _Stable_
   * [mastodo](https://github.com/gled-rs/mastodo) - implementing useful features not implemented upstream
 * [Pleroma](https://pleroma.social/) - Elixir/Erlang - High Performance with seperated BE/FE design
 * [Misskey](https://github.com/syuilo/misskey) - NodeJS - "forever evolving, sophisticated microblogging platform" with lots of anime girls.
-* [Nextcloud Social](https://github.com/nextcloud/social) - NodeJS - Nextcloud becomes part of the federated social networks!
-* [microblog.pub](https://github.com/tsileo/microblog.pub) - Python - self-hosted, single-user, ActivityPub powered microblog.
 
 _WIP_
+* [Nextcloud Social](https://github.com/nextcloud/social) - NodeJS - Nextcloud becomes part of the federated social networks!
+* [microblog.pub](https://github.com/tsileo/microblog.pub) - Python - self-hosted, single-user, ActivityPub powered microblog.
 * [Kibou](https://git.cybre.club/kibouproject/kibou) - Rust - Mastodon-compatible server
 * [Rustodon](https://github.com/rustodon/rustodon) - Rust - Mastodon-compatible server
 
@@ -73,3 +73,10 @@ _WIP_
 
 ## Blog Posts
 * [The “Worse Is Better” Approach to Federated Social Networking](https://blog.dereferenced.org/activitypub-the-worse-is-better-approach-to-federated-social-networking) - by Kaniini (lead developers of Pleroma).
+* [Welcome to Thundertoot](https://medium.com/@mrshlee/aus-social-welcome-to-thundertoot-59d881ad573) - by myself (Aus.Social Admin)
+
+# Wish List
+
+* Soundcloud Clone
+* Tumblr Clone
+* Live Journal clone
