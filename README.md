@@ -73,6 +73,7 @@ _WIP_
 
 ## Bridges
 * [Bridgy Fed](https://fed.brid.gy/) - connects IndieWeb sites with federated social networks.
+* [ActivityPub actor](https://activitypub.actor/) - importer from centralized non-ActivityPub social networks to ActivityPub capable ones.
 
 ## Blog Posts
 * [The “Worse Is Better” Approach to Federated Social Networking](https://blog.dereferenced.org/activitypub-the-worse-is-better-approach-to-federated-social-networking) - by Kaniini (lead developers of Pleroma).
