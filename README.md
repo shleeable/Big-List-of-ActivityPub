@@ -67,9 +67,9 @@ _WIP_
 * [Fedimos](https://github.com/fedimos/server) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/fedimos/server.svg?style=plastic) "End-to-End Encrypted & Decentralized Messaging Service for the Fediverse"
 
 ## Frameworks
-* [Little Boxes](https://github.com/tsileo/little-boxes) -  Python ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/little-boxes.svg?style=plastic) - both database and server agnostic.
-* [PubGate](https://github.com/autogestion/pubgate) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/autogestion/pubgate.svg?style=plastic) - Lightweight (Gotta Go Fast) ActivityPub federator.
-* [Clovis](https://github.com/WellFactored/clovis) - Scala ![GitHub last commit](https://img.shields.io/github/last-commit/WellFactored/clovis.svg?style=plastic) - 
+* [Little Boxes](https://github.com/tsileo/little-boxes) -  Python ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/little-boxes.svg?style=plastic) "both database and server agnostic."
+* [PubGate](https://github.com/autogestion/pubgate) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/autogestion/pubgate.svg?style=plastic) "Lightweight (Gotta Go Fast) ActivityPub federator."
+* [Clovis](https://github.com/WellFactored/clovis) - Scala ![GitHub last commit](https://img.shields.io/github/last-commit/WellFactored/clovis.svg?style=plastic) " totally a hobby project to learn new stuff at the moment so don't expect much"
 
 ## Bridges
 * [Bridgy Fed](https://fed.brid.gy/) - connects IndieWeb sites with federated social networks.
