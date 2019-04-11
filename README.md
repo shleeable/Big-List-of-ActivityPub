@@ -38,8 +38,8 @@ _Stable_
 
 ### Blogging
 _Stable_
-* [Plume](https://github.com/Plume-org/Plume) - Rust ![GitHub last commit](https://img.shields.io/github/last-commit/Plume-org/Plume.svg?style=plastic) -  "federated blogging engine"
-* [WriteFreely](https://github.com/writeas/writefreely) - Go ![GitHub last commit](https://img.shields.io/github/last-commit/writeas/writefreely.svg?style=plastic) - "federated blogging engine"
+* [Plume](https://github.com/Plume-org/Plume) - Rust ![GitHub last commit](https://img.shields.io/github/last-commit/Plume-org/Plume.svg?style=plastic) "federated blogging engine"
+* [WriteFreely](https://github.com/writeas/writefreely) - Go ![GitHub last commit](https://img.shields.io/github/last-commit/writeas/writefreely.svg?style=plastic) "federated blogging engine"
 
 ### Music (Soundcloud)
 _Stable_
