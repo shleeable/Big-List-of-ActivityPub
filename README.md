@@ -23,10 +23,10 @@ _Stable_
 * [Misskey](https://github.com/syuilo/misskey) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/syuilo/misskey.svg?style=plastic) - "forever evolving, sophisticated microblogging platform" with lots of anime girls. 
 
 _WIP_
-* [Nextcloud Social](https://github.com/nextcloud/social) - NodeJS - Nextcloud becomes part of the federated social networks!
-* [microblog.pub](https://github.com/tsileo/microblog.pub) - Python - self-hosted, single-user, ActivityPub powered microblog.
-* [Kibou](https://git.cybre.club/kibouproject/kibou) - Rust - Mastodon-compatible server
-* [Rustodon](https://github.com/rustodon/rustodon) - Rust - Mastodon-compatible server
+* [Nextcloud Social](https://github.com/nextcloud/social) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/nextcloud/social.svg?style=plastic) - Nextcloud becomes part of the federated social networks!
+* [microblog.pub](https://github.com/tsileo/microblog.pub) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/microblog.pub.svg?style=plastic) - self-hosted, single-user, ActivityPub powered microblog.
+* [Kibou](https://git.cybre.club/kibouproject/kibou) - Rust ![GitHub last commit](https://img.shields.io/github/last-commit/kibouproject/kibou.svg?style=plastic) - Mastodon-compatible server
+* [Rustodon](https://github.com/rustodon/rustodon) - Rust ![GitHub last commit](https://img.shields.io/github/last-commit/rustodon/rustodon.svg?style=plastic) - Mastodon-compatible server
 
 ### Video Streaming (YouTube)
 _Stable_
@@ -34,42 +34,42 @@ _Stable_
 
 ### Image Sharing (Instagram)
 _Stable_
-* [PixelFed](https://github.com/pixelfed/pixelfed) - PHP -  Free and ethical photo sharing platform
+* [PixelFed](https://github.com/pixelfed/pixelfed) - PHP ![GitHub last commit](https://img.shields.io/github/last-commit/pixelfed/pixelfed.svg?style=plastic) -  Free and ethical photo sharing platform
 
 ### Blogging
 _Stable_
-* [Plume](https://github.com/Plume-org/Plume) - Rust -  federated blogging engine
-* [WriteFreely](https://github.com/writeas/writefreely) - Go - federated blogging engine
+* [Plume](https://github.com/Plume-org/Plume) - Rust ![GitHub last commit](https://img.shields.io/github/last-commit/Plume-org/Plume.svg?style=plastic) -  federated blogging engine
+* [WriteFreely](https://github.com/writeas/writefreely) - Go ![GitHub last commit](https://img.shields.io/github/last-commit/writeas/writefreely.svg?style=plastic) - federated blogging engine
 
 ### Music (Soundcloud)
 _Stable_
 * [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) - ? -
 
 _WIP_
-* [Soundstorm](https://github.com/weathermen/soundstorm) - Ruby - Federated Social Music Platform.
-* [Reel2Bits](https://github.com/rhaamo/reel2bits) - Python -
+* [Soundstorm](https://github.com/weathermen/soundstorm) - Ruby ![GitHub last commit](https://img.shields.io/github/last-commit/weathermen/soundstorm.svg?style=plastic) - Federated Social Music Platform.
+* [Reel2Bits](https://github.com/rhaamo/reel2bits) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/rhaamo/reel2bits.svg?style=plastic) -
 
 ## Other ActivityPub enabled projects
-* [Pump.io](https://github.com/pump-io/pump.io) - NodeJS - Social network
-* [Distbin](https://github.com/gobengo/distbin) - NodeJS - Post bin with distributed social features.
-* [Anancus](https://gitlab.com/tuxether/anancus) - Go - self-hosted and federated social link aggregation.
-* [Hubzilla](https://framagit.org/hubzilla/core) - PHP - powerful platform for creating interconnected websites.
-* [Dokieli](https://github.com/linkeddata/dokieli) - NodeJS - decentralised article publishing, annotations and social interactions.
-* [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - Rust - Powering connected social communities
-* [MeowCat2](https://github.com/cabalamat/meowcat2) - Python - federated blogging and social networking platform
-* [Lemmy](https://github.com/dessalines/lemmy) - Rust - federated alternative to reddit
-* [socialhome](https://github.com/jaywink/socialhome) - Python - federated personal profile
-* [MobiliZon](https://github.com/framasoft/mobilizon) - Elixir - federated organization and mobilization platform. Gather people with a convivial, ethical, and emancipating tool.
-* [Littr.me](https://github.com/mariusor/littr.go) - Go - Link aggregator inspired by reddit
-* [Lamia](https://github.com/Scarly-Cat/lamia) - Python - Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women. 
-* [Anfora](https://github.com/anforaProject/anfora) - Python - photo gallery social network
-* [Pubcast](https://github.com/pubcast/pubcast) - Go - experimental ActivityPub based podcasting platform
-* [Fedimos](https://github.com/fedimos) - NodeJS - End-to-End Encrypted & Decentralized Messaging Service for the Fediverse 
+* [Pump.io](https://github.com/pump-io/pump.io) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/pump-io/pump.io.svg?style=plastic) - Social network
+* [Distbin](https://github.com/gobengo/distbin) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/gobengo/distbin.svg?style=plastic) - Post bin with distributed social features.
+* [Anancus](https://gitlab.com/tuxether/anancus) - Go ![GitHub last commit](https://img.shields.io/github/last-commit/tuxether/anancus.svg?style=plastic) - self-hosted and federated social link aggregation.
+* [Hubzilla](https://framagit.org/hubzilla/core) - PHP ![GitHub last commit](https://img.shields.io/github/last-commit/hubzilla/core.svg?style=plastic) - powerful platform for creating interconnected websites.
+* [Dokieli](https://github.com/linkeddata/dokieli) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/linkeddata/dokieli.svg?style=plastic) - decentralised article publishing, annotations and social interactions.
+* [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - Rus ![GitHub last commit](https://img.shields.io/github/last-commit/Aardwolf-Social/aardwolf.svg?style=plastic)t - Powering connected social communities
+* [MeowCat2](https://github.com/cabalamat/meowcat2) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/cabalamat/meowcat2.svg?style=plastic) - federated blogging and social networking platform
+* [Lemmy](https://github.com/dessalines/lemmy) - Rust ![GitHub last commit](https://img.shields.io/github/last-commit/dessalines/lemmy.svg?style=plastic) - federated alternative to reddit
+* [socialhome](https://github.com/jaywink/socialhome) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/jaywink/socialhome.svg?style=plastic) - federated personal profile
+* [MobiliZon](https://github.com/framasoft/mobilizon) - Elixir ![GitHub last commit](https://img.shields.io/github/last-commit/framasoft/mobilizon.svg?style=plastic) - federated organization and mobilization platform. Gather people with a convivial, ethical, and emancipating tool.
+* [Littr.me](https://github.com/mariusor/littr.go) - Go ![GitHub last commit](https://img.shields.io/github/last-commit/mariusor/littr.go.svg?style=plastic) - Link aggregator inspired by reddit
+* [Lamia](https://github.com/Scarly-Cat/lamia) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/Scarly-Cat/lamia.svg?style=plastic) - Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women. 
+* [Anfora](https://github.com/anforaProject/anfora) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/anforaProject/anfora.svg?style=plastic) - photo gallery social network
+* [Pubcast](https://github.com/pubcast/pubcast) - Go ![GitHub last commit](https://img.shields.io/github/last-commit/pubcast/pubcast.svg?style=plastic) - experimental ActivityPub based podcasting platform
+* [Fedimos](https://github.com/fedimos/server) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/fedimos/server.svg?style=plastic) - End-to-End Encrypted & Decentralized Messaging Service for the Fediverse 
 
 ## Frameworks
-* [Little Boxes](https://github.com/tsileo/little-boxes) -  Python - both database and server agnostic.
-* [PubGate](https://github.com/autogestion/pubgate) - Python - Lightweight (Gotta Go Fast) ActivityPub federator.
-* [Clovis](https://github.com/WellFactored/clovis) - Scala - 
+* [Little Boxes](https://github.com/tsileo/little-boxes) -  Python ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/little-boxes.svg?style=plastic) - both database and server agnostic.
+* [PubGate](https://github.com/autogestion/pubgate) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/autogestion/pubgate.svg?style=plastic) - Lightweight (Gotta Go Fast) ActivityPub federator.
+* [Clovis](https://github.com/WellFactored/clovis) - Scala ![GitHub last commit](https://img.shields.io/github/last-commit/WellFactored/clovis.svg?style=plastic) - 
 
 ## Bridges
 * [Bridgy Fed](https://fed.brid.gy/) - connects IndieWeb sites with federated social networks.
