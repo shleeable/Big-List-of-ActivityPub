@@ -6,7 +6,7 @@
 
 *W3 Quote:* "The ActivityPub protocol is a decentralized social networking protocol. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and content."
 
-*Shlee:* "ActivityPub is the idea of splitting online services into tiny self hosted pieces - Turning privately owned services like twitter into thousands of little twitters, who are able to communicate with each other as you would expect - Giving power and control back to the many."
+*Shlee Quote:* "ActivityPub is the idea of splitting online services into tiny self hosted pieces - Turning privately owned services like twitter into thousands of little twitters, who are able to communicate with each other as you would expect - Giving power and control back to the many."
 
 ![Mastodon Logo](https://camo.githubusercontent.com/24f50a04efd1bc2b6893a9fe65387aef918d7b93/68747470733a2f2f626c6f672e6a6f696e6d6173746f646f6e2e6f72672f323031382f30362f7768792d61637469766974797075622d69732d7468652d6675747572652f657a6769662d322d363066316230303430332e676966)
 > Alice is on Server A. Bob is on Server B. Alice sends a message to Bob. Server A sends the message to Server B. Bob gets notified of the message. :star:
