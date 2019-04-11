@@ -16,11 +16,11 @@
 
 ### Microblogging (Twitter)
 _Stable_
-* [Mastodon](https://github.com/tootsuite/mastodon) - Ruby - Mainstream reference design
-  * [glitch-soc](https://github.com/glitch-soc/mastodon/) - A glitchy but lovable fork
-  * [mastodo](https://github.com/gled-rs/mastodo) - implementing useful features not implemented upstream
-* [Pleroma](https://pleroma.social/) - Elixir/Erlang - High Performance with seperated BE/FE design
-* [Misskey](https://github.com/syuilo/misskey) - NodeJS - "forever evolving, sophisticated microblogging platform" with lots of anime girls.
+* [Mastodon](https://github.com/tootsuite/mastodon) - Ruby ![GitHub last commit](https://img.shields.io/github/last-commit/tootsuite/mastodon.svg?style=plastic) - Mainstream reference design 
+  * [glitch-soc](https://github.com/glitch-soc/mastodon/) - ![GitHub last commit](https://img.shields.io/github/last-commit/glitch-soc/mastodon.svg?style=plastic) - A glitchy but lovable fork 
+  * [mastodo](https://github.com/gled-rs/mastodo) - ![GitHub last commit](https://img.shields.io/github/last-commit/gled-rs/mastodo.svg?style=plastic) - implementing useful features not implemented upstream 
+* [Pleroma](https://pleroma.social/) - Elixir/Erlang ![GitHub last commit](https://img.shields.io/github/last-commit/lambadalambda/pleroma.svg?style=plastic) - High Performance with seperated BE/FE design 
+* [Misskey](https://github.com/syuilo/misskey) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/syuilo/misskey.svg?style=plastic) - "forever evolving, sophisticated microblogging platform" with lots of anime girls. 
 
 _WIP_
 * [Nextcloud Social](https://github.com/nextcloud/social) - NodeJS - Nextcloud becomes part of the federated social networks!
@@ -30,7 +30,7 @@ _WIP_
 
 ### Video Streaming (YouTube)
 _Stable_
-* [PeerTube](https://github.com/Chocobozzz/PeerTube) - NodeJS - Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
+* [PeerTube](https://github.com/Chocobozzz/PeerTube) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/Chocobozzz/PeerTube.svg?style=plastic) - Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
 
 ### Image Sharing (Instagram)
 _Stable_
