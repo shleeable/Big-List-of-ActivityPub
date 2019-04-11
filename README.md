@@ -25,7 +25,7 @@ _Stable_
 _WIP_
 * [Nextcloud Social](https://github.com/nextcloud/social) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/nextcloud/social.svg?style=plastic) - Nextcloud becomes part of the federated social networks!
 * [microblog.pub](https://github.com/tsileo/microblog.pub) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/microblog.pub.svg?style=plastic) - self-hosted, single-user, ActivityPub powered microblog.
-* [Kibou](https://git.cybre.club/kibouproject/kibou) - Rust ![GitHub last commit](https://img.shields.io/github/last-commit/kibouproject/kibou.svg?style=plastic) - Mastodon-compatible server
+* [Kibou](https://git.cybre.club/kibouproject/kibou) - Rust - Mastodon-compatible server
 * [Rustodon](https://github.com/rustodon/rustodon) - Rust ![GitHub last commit](https://img.shields.io/github/last-commit/rustodon/rustodon.svg?style=plastic) - Mastodon-compatible server
 
 ### Video Streaming (YouTube)
@@ -52,8 +52,8 @@ _WIP_
 ## Other ActivityPub enabled projects
 * [Pump.io](https://github.com/pump-io/pump.io) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/pump-io/pump.io.svg?style=plastic) - Social network
 * [Distbin](https://github.com/gobengo/distbin) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/gobengo/distbin.svg?style=plastic) - Post bin with distributed social features.
-* [Anancus](https://gitlab.com/tuxether/anancus) - Go ![GitHub last commit](https://img.shields.io/github/last-commit/tuxether/anancus.svg?style=plastic) - self-hosted and federated social link aggregation.
-* [Hubzilla](https://framagit.org/hubzilla/core) - PHP ![GitHub last commit](https://img.shields.io/github/last-commit/hubzilla/core.svg?style=plastic) - powerful platform for creating interconnected websites.
+* [Anancus](https://gitlab.com/tuxether/anancus) - Go - self-hosted and federated social link aggregation.
+* [Hubzilla](https://framagit.org/hubzilla/core) - PHP - powerful platform for creating interconnected websites.
 * [Dokieli](https://github.com/linkeddata/dokieli) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/linkeddata/dokieli.svg?style=plastic) - decentralised article publishing, annotations and social interactions.
 * [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - Rus ![GitHub last commit](https://img.shields.io/github/last-commit/Aardwolf-Social/aardwolf.svg?style=plastic)t - Powering connected social communities
 * [MeowCat2](https://github.com/cabalamat/meowcat2) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/cabalamat/meowcat2.svg?style=plastic) - federated blogging and social networking platform
