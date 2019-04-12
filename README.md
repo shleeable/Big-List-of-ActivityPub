@@ -16,38 +16,38 @@
 
 ### Microblogging (Twitter)
 _Stable_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/tootsuite/mastodon.svg?style=plastic) [Mastodon](https://github.com/tootsuite/mastodon) - Ruby  "Mainstream reference design"
-  * ![GitHub last commit](https://img.shields.io/github/last-commit/glitch-soc/mastodon.svg?style=plastic) [glitch-soc](https://github.com/glitch-soc/mastodon/) -  "A glitchy but lovable fork"
-  * ![GitHub last commit](https://img.shields.io/github/last-commit/gled-rs/mastodo.svg?style=plastic) [mastodo](https://github.com/gled-rs/mastodo) -  "Implementing useful features not implemented upstream"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/lambadalambda/pleroma.svg?style=plastic) [Pleroma](https://pleroma.social/) - Elixir/Erlang  "High Performance with seperated BE/FE design"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/syuilo/misskey.svg?style=plastic) [Misskey](https://github.com/syuilo/misskey) - NodeJS  "forever evolving, sophisticated microblogging platform" with lots of anime girls. 
+* ![GitHub last commit](https://img.shields.io/github/last-commit/tootsuite/mastodon.svg?style=plastic) [Mastodon](https://github.com/tootsuite/mastodon) - _Ruby_ "Mainstream reference design"
+  * ![GitHub last commit](https://img.shields.io/github/last-commit/glitch-soc/mastodon.svg?style=plastic) [glitch-soc](https://github.com/glitch-soc/mastodon/) - "A glitchy but lovable fork"
+  * ![GitHub last commit](https://img.shields.io/github/last-commit/gled-rs/mastodo.svg?style=plastic) [mastodo](https://github.com/gled-rs/mastodo) - "Implementing useful features not implemented upstream"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/lambadalambda/pleroma.svg?style=plastic) [Pleroma](https://pleroma.social/) - _Elixir/Erlang_ "High Performance with seperated BE/FE design"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/syuilo/misskey.svg?style=plastic) [Misskey](https://github.com/syuilo/misskey) - _NodeJS_ "forever evolving, sophisticated microblogging platform" with lots of anime girls. 
 
 _WIP_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/nextcloud/social.svg?style=plastic) [Nextcloud Social](https://github.com/nextcloud/social) - NodeJS  "Nextcloud becomes part of the federated social networks!"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/microblog.pub.svg?style=plastic) [microblog.pub](https://github.com/tsileo/microblog.pub) - Python  "self-hosted, single-user, ActivityPub powered microblog."
-* [Kibou](https://git.cybre.club/kibouproject/kibou) - Rust "Mastodon-compatible server"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/rustodon/rustodon.svg?style=plastic) [Rustodon](https://github.com/rustodon/rustodon) - Rust "Mastodon-compatible server"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/nextcloud/social.svg?style=plastic) [Nextcloud Social](https://github.com/nextcloud/social) - _NodeJS_ "Nextcloud becomes part of the federated social networks!"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/microblog.pub.svg?style=plastic) [microblog.pub](https://github.com/tsileo/microblog.pub) - _Python_ "self-hosted, single-user, ActivityPub powered microblog."
+* [Kibou](https://git.cybre.club/kibouproject/kibou) - _Rust_ "Mastodon-compatible server"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/rustodon/rustodon.svg?style=plastic) [Rustodon](https://github.com/rustodon/rustodon) - _Rust_ "Mastodon-compatible server"
 
 ### Video Streaming (YouTube)
 _Stable_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/Chocobozzz/PeerTube.svg?style=plastic) [PeerTube](https://github.com/Chocobozzz/PeerTube) - NodeJS "Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular."
+* ![GitHub last commit](https://img.shields.io/github/last-commit/Chocobozzz/PeerTube.svg?style=plastic) [PeerTube](https://github.com/Chocobozzz/PeerTube) - _NodeJS_ "Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular."
 
 ### Image Sharing (Instagram)
 _Stable_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/pixelfed/pixelfed.svg?style=plastic) [PixelFed](https://github.com/pixelfed/pixelfed) - PHP "Free and ethical photo sharing platform"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/pixelfed/pixelfed.svg?style=plastic) [PixelFed](https://github.com/pixelfed/pixelfed) - _PHP_ "Free and ethical photo sharing platform"
 
 ### Blogging
 _Stable_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/Plume-org/Plume.svg?style=plastic) [Plume](https://github.com/Plume-org/Plume) - Rust "federated blogging engine"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/writeas/writefreely.svg?style=plastic) [WriteFreely](https://github.com/writeas/writefreely) - Go "federated blogging engine"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/Plume-org/Plume.svg?style=plastic) [Plume](https://github.com/Plume-org/Plume) - _Rust_ "federated blogging engine"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/writeas/writefreely.svg?style=plastic) [WriteFreely](https://github.com/writeas/writefreely) - _Go_ "federated blogging engine"
 
 ### Music (Soundcloud)
 _Stable_
-* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) - NodeJS "self-hosted tribute to Grooveshark.com."
+* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) - _NodeJS_ "self-hosted tribute to Grooveshark.com."
 
 _WIP_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/weathermen/soundstorm.svg?style=plastic) [Soundstorm](https://github.com/weathermen/soundstorm) - Ruby - "Federated Social Music Platform."
-* ![GitHub last commit](https://img.shields.io/github/last-commit/rhaamo/reel2bits.svg?style=plastic) [Reel2Bits](https://github.com/rhaamo/reel2bits) - Python "Soundcloud-like but simple, easy and KISS (and ActivityPub)"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/weathermen/soundstorm.svg?style=plastic) [Soundstorm](https://github.com/weathermen/soundstorm) - _Ruby_ "Federated Social Music Platform."
+* ![GitHub last commit](https://img.shields.io/github/last-commit/rhaamo/reel2bits.svg?style=plastic) [Reel2Bits](https://github.com/rhaamo/reel2bits) - _Python_ "Soundcloud-like but simple, easy and KISS (and ActivityPub)"
 
 ## Other ActivityPub enabled projects
 * [Pump.io](https://github.com/pump-io/pump.io) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/pump-io/pump.io.svg?style=plastic) "Social network"
@@ -67,7 +67,7 @@ _WIP_
 * [Fedimos](https://github.com/fedimos/server) - NodeJS ![GitHub last commit](https://img.shields.io/github/last-commit/fedimos/server.svg?style=plastic) "End-to-End Encrypted & Decentralized Messaging Service for the Fediverse"
 
 ## Frameworks
-* [Little Boxes](https://github.com/tsileo/little-boxes) -  Python ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/little-boxes.svg?style=plastic) "both database and server agnostic."
+* ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/little-boxes.svg?style=plastic) [Little Boxes](https://github.com/tsileo/little-boxes) -  _Python_ "both database and server agnostic."
 * [PubGate](https://github.com/autogestion/pubgate) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/autogestion/pubgate.svg?style=plastic) "Lightweight (Gotta Go Fast) ActivityPub federator."
 * [Clovis](https://github.com/WellFactored/clovis) - Scala ![GitHub last commit](https://img.shields.io/github/last-commit/WellFactored/clovis.svg?style=plastic) " totally a hobby project to learn new stuff at the moment so don't expect much"
 
