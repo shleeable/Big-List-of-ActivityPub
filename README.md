@@ -68,8 +68,8 @@ _WIP_
 
 ## Frameworks
 * ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/little-boxes.svg?style=plastic) [Little Boxes](https://github.com/tsileo/little-boxes) -  _Python_ "both database and server agnostic."
-* [PubGate](https://github.com/autogestion/pubgate) - Python ![GitHub last commit](https://img.shields.io/github/last-commit/autogestion/pubgate.svg?style=plastic) "Lightweight (Gotta Go Fast) ActivityPub federator."
-* [Clovis](https://github.com/WellFactored/clovis) - Scala ![GitHub last commit](https://img.shields.io/github/last-commit/WellFactored/clovis.svg?style=plastic) " totally a hobby project to learn new stuff at the moment so don't expect much"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/autogestion/pubgate.svg?style=plastic) [PubGate](https://github.com/autogestion/pubgate) - _Python_ "Lightweight (Gotta Go Fast) ActivityPub federator."
+* ![GitHub last commit](https://img.shields.io/github/last-commit/WellFactored/clovis.svg?style=plastic) [Clovis](https://github.com/WellFactored/clovis) - _Scala_ "totally a hobby project to learn new stuff at the moment so don't expect much"
 
 ## Bridges
 * [Bridgy Fed](https://fed.brid.gy/) - connects IndieWeb sites with federated social networks.
