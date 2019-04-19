@@ -70,7 +70,7 @@ _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pubcast/pubcast.svg?style=plastic) [Pubcast](https://github.com/pubcast/pubcast) - _Go_ "experimental ActivityPub based podcasting platform"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/fedimos/server.svg?style=plastic) [Fedimos](https://github.com/fedimos/server) - _NodeJS_ "End-to-End Encrypted & Decentralized Messaging Service for the Fediverse"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pterotype-project/pterotype.svg?style=plastic) [pterotype](https://github.com/pterotype-project/pterotype) - _PHP_ "WordPress plugin that expands your audience by giving your site an ActivityPub stream"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/prismosuite/prismo.svg?style=plastic) [Prismo](https://gitlab.com/prismosuite/prismo) - _Ruby/NodeJS_ "Federated link aggregation powered by ActivityPub."
+* [Prismo](https://gitlab.com/prismosuite/prismo) - _Ruby/NodeJS_ "Federated link aggregation powered by ActivityPub."
 
 ## Frameworks
 * ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/little-boxes.svg?style=plastic) [Little Boxes](https://github.com/tsileo/little-boxes) -  _Python_ "both database and server agnostic."
