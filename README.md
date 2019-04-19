@@ -23,7 +23,7 @@ _Stable_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/syuilo/misskey.svg?style=plastic) [Misskey](https://github.com/syuilo/misskey) - _NodeJS_ "forever evolving, sophisticated microblogging platform" with lots of anime girls. 
 
 _WIP_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/nextcloud/social.svg?style=plastic) [Nextcloud Social](https://github.com/nextcloud/social) - _NodeJS_ "Nextcloud becomes part of the federated social networks!"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/nextcloud/social.svg?style=plastic) [Nextcloud Social](https://github.com/nextcloud/social) - _PHP_ "Nextcloud becomes part of the federated social networks!"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/microblog.pub.svg?style=plastic) [microblog.pub](https://github.com/tsileo/microblog.pub) - _Python_ "self-hosted, single-user, ActivityPub powered microblog."
 * [Kibou](https://git.cybre.club/kibouproject/kibou) - _Rust_ "Mastodon-compatible server"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/rustodon/rustodon.svg?style=plastic) [Rustodon](https://github.com/rustodon/rustodon) - _Rust_ "Mastodon-compatible server"
@@ -49,6 +49,10 @@ _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/weathermen/soundstorm.svg?style=plastic) [Soundstorm](https://github.com/weathermen/soundstorm) - _Ruby_ "Federated Social Music Platform."
 * ![GitHub last commit](https://img.shields.io/github/last-commit/rhaamo/reel2bits.svg?style=plastic) [Reel2Bits](https://github.com/rhaamo/reel2bits) - _Python_ "Soundcloud-like but simple, easy and KISS (and ActivityPub)"
 
+### Social Networks (Diaspora)
+_WIP_
+* [GangGo](https://git.feneas.org/ganggo/ganggo) - _Go_ Diaspora enabled social network. Join conversations with any other Pod!
+
 ## Other ActivityPub enabled projects
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pump-io/pump.io.svg?style=plastic) [Pump.io](https://github.com/pump-io/pump.io) - _NodeJS_ "Social network"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/gobengo/distbin.svg?style=plastic) [Distbin](https://github.com/gobengo/distbin) - _NodeJS_ "Post bin with distributed social features."
@@ -65,11 +69,15 @@ _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/anforaProject/anfora.svg?style=plastic) [Anfora](https://github.com/anforaProject/anfora) - _Python_ "photo gallery social network"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pubcast/pubcast.svg?style=plastic) [Pubcast](https://github.com/pubcast/pubcast) - _Go_ "experimental ActivityPub based podcasting platform"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/fedimos/server.svg?style=plastic) [Fedimos](https://github.com/fedimos/server) - _NodeJS_ "End-to-End Encrypted & Decentralized Messaging Service for the Fediverse"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/pterotype-project/pterotype.svg?style=plastic) [pterotype](https://github.com/pterotype-project/pterotype) - _PHP_ "WordPress plugin that expands your audience by giving your site an ActivityPub stream"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/prismosuite/prismo.svg?style=plastic) [Prismo](https://gitlab.com/prismosuite/prismo) - _Ruby/NodeJS_ "Federated link aggregation powered by ActivityPub."
 
 ## Frameworks
 * ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/little-boxes.svg?style=plastic) [Little Boxes](https://github.com/tsileo/little-boxes) -  _Python_ "both database and server agnostic."
 * ![GitHub last commit](https://img.shields.io/github/last-commit/autogestion/pubgate.svg?style=plastic) [PubGate](https://github.com/autogestion/pubgate) - _Python_ "Lightweight (Gotta Go Fast) ActivityPub federator."
 * ![GitHub last commit](https://img.shields.io/github/last-commit/WellFactored/clovis.svg?style=plastic) [Clovis](https://github.com/WellFactored/clovis) - _Scala_ "totally a hobby project to learn new stuff at the moment so don't expect much"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/go-fed/activity.svg?style=plastic) [go-fed](https://github.com/go-fed/activity) - _Go_ "ActivityStreams & ActivityPub in golang, oh my! "
+
 
 ## Bridges
 * [Bridgy Fed](https://fed.brid.gy/) - connects IndieWeb sites with federated social networks.
