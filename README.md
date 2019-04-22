@@ -36,6 +36,9 @@ _Stable_
 _Stable_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pixelfed/pixelfed.svg?style=plastic) [PixelFed](https://github.com/pixelfed/pixelfed) - _PHP_ "Free and ethical photo sharing platform"
 
+_WIP_
+* ![GitHub last commit](https://img.shields.io/github/last-commit/anforaProject/anfora.svg?style=plastic) [Anfora](https://github.com/anforaProject/anfora) - _Pyton_ "Federated image sharing"
+
 ### Blogging
 _Stable_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/Plume-org/Plume.svg?style=plastic) [Plume](https://github.com/Plume-org/Plume) - _Rust_ "federated blogging engine"
