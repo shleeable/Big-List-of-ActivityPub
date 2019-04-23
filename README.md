@@ -62,10 +62,6 @@ _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/dessalines/lemmy.svg?style=plastic) [Lemmy](https://github.com/dessalines/lemmy) - _Rust_ "federated alternative to reddit"
 * [Anancus](https://gitlab.com/tuxether/anancus) - _Go_ "self-hosted and federated social link aggregation."
 
-### Social Networks (Diaspora)
-_WIP_
-* [GangGo](https://git.feneas.org/ganggo/ganggo) - _Go_ Diaspora enabled social network. Join conversations with any other Pod!
-
 ## Other ActivityPub enabled projects
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pump-io/pump.io.svg?style=plastic) [Pump.io](https://github.com/pump-io/pump.io) - _NodeJS_ "Social network"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/gobengo/distbin.svg?style=plastic) [Distbin](https://github.com/gobengo/distbin) - _NodeJS_ "Post bin with distributed social features."
