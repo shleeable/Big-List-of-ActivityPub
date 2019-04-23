@@ -36,6 +36,9 @@ _Stable_
 _Stable_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pixelfed/pixelfed.svg?style=plastic) [PixelFed](https://github.com/pixelfed/pixelfed) - _PHP_ "Free and ethical photo sharing platform"
 
+_WIP_
+* ![GitHub last commit](https://img.shields.io/github/last-commit/anforaProject/anfora.svg?style=plastic) [Anfora](https://github.com/anforaProject/anfora) - _Python_ "photo gallery social network"
+
 ### Blogging
 _Stable_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/Plume-org/Plume.svg?style=plastic) [Plume](https://github.com/Plume-org/Plume) - _Rust_ "federated blogging engine"
@@ -66,7 +69,6 @@ _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/framasoft/mobilizon.svg?style=plastic) [MobiliZon](https://github.com/framasoft/mobilizon) - _Elixir_  "federated organization and mobilization platform. Gather people with a convivial, ethical, and emancipating tool."
 * ![GitHub last commit](https://img.shields.io/github/last-commit/mariusor/littr.go.svg?style=plastic) [Littr.me](https://github.com/mariusor/littr.go) - _Go_ "Link aggregator inspired by reddit"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/Scarly-Cat/lamia.svg?style=plastic) [Lamia](https://github.com/Scarly-Cat/lamia) - _Python_ "Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women."
-* ![GitHub last commit](https://img.shields.io/github/last-commit/anforaProject/anfora.svg?style=plastic) [Anfora](https://github.com/anforaProject/anfora) - _Python_ "photo gallery social network"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pubcast/pubcast.svg?style=plastic) [Pubcast](https://github.com/pubcast/pubcast) - _Go_ "experimental ActivityPub based podcasting platform"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/fedimos/server.svg?style=plastic) [Fedimos](https://github.com/fedimos/server) - _NodeJS_ "End-to-End Encrypted & Decentralized Messaging Service for the Fediverse"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pterotype-project/pterotype.svg?style=plastic) [pterotype](https://github.com/pterotype-project/pterotype) - _PHP_ "WordPress plugin that expands your audience by giving your site an ActivityPub stream"
