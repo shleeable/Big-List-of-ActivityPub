@@ -75,7 +75,6 @@ _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/cabalamat/meowcat2.svg?style=plastic) [MeowCat2](https://github.com/cabalamat/meowcat2) - _Python_ "federated blogging and social networking platform"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/jaywink/socialhome.svg?style=plastic) [socialhome](https://github.com/jaywink/socialhome) - _Python_ "federated personal profile"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/framasoft/mobilizon.svg?style=plastic) [MobiliZon](https://github.com/framasoft/mobilizon) - _Elixir_  "federated organization and mobilization platform. Gather people with a convivial, ethical, and emancipating tool."
-
 * ![GitHub last commit](https://img.shields.io/github/last-commit/Scarly-Cat/lamia.svg?style=plastic) [Lamia](https://github.com/Scarly-Cat/lamia) - _Python_ "Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women."
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pubcast/pubcast.svg?style=plastic) [Pubcast](https://github.com/pubcast/pubcast) - _Go_ "experimental ActivityPub based podcasting platform"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/fedimos/server.svg?style=plastic) [Fedimos](https://github.com/fedimos/server) - _NodeJS_ "End-to-End Encrypted & Decentralized Messaging Service for the Fediverse"
