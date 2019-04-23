@@ -96,9 +96,3 @@ _WIP_
 ## Blog Posts
 * [The “Worse Is Better” Approach to Federated Social Networking](https://blog.dereferenced.org/activitypub-the-worse-is-better-approach-to-federated-social-networking) - by Kaniini (lead developers of Pleroma).
 * [Welcome to Thundertoot](https://medium.com/@mrshlee/aus-social-welcome-to-thundertoot-59d881ad573) - by myself (Aus.Social Admin)
-
-# Wish List
-
-* Soundcloud Clone
-* Tumblr Clone
-* Live Journal clone
