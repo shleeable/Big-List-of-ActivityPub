@@ -55,6 +55,13 @@ _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/weathermen/soundstorm.svg?style=plastic) [Soundstorm](https://github.com/weathermen/soundstorm) - _Ruby_ "Federated Social Music Platform."
 * ![GitHub last commit](https://img.shields.io/github/last-commit/rhaamo/reel2bits.svg?style=plastic) [Reel2Bits](https://github.com/rhaamo/reel2bits) - _Python_ "Soundcloud-like but simple, easy and KISS (and ActivityPub)"
 
+### Link Sharing (Reddit)
+_WIP_
+* [Prismo](https://gitlab.com/prismosuite/prismo) - _Ruby/NodeJS_ "Federated link aggregation powered by ActivityPub."
+* ![GitHub last commit](https://img.shields.io/github/last-commit/mariusor/littr.go.svg?style=plastic) [Littr.me](https://github.com/mariusor/littr.go) - _Go_ "Link aggregator inspired by reddit"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/dessalines/lemmy.svg?style=plastic) [Lemmy](https://github.com/dessalines/lemmy) - _Rust_ "federated alternative to reddit"
+* [Anancus](https://gitlab.com/tuxether/anancus) - _Go_ "self-hosted and federated social link aggregation."
+
 ### Social Networks (Diaspora)
 _WIP_
 * [GangGo](https://git.feneas.org/ganggo/ganggo) - _Go_ Diaspora enabled social network. Join conversations with any other Pod!
@@ -62,20 +69,18 @@ _WIP_
 ## Other ActivityPub enabled projects
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pump-io/pump.io.svg?style=plastic) [Pump.io](https://github.com/pump-io/pump.io) - _NodeJS_ "Social network"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/gobengo/distbin.svg?style=plastic) [Distbin](https://github.com/gobengo/distbin) - _NodeJS_ "Post bin with distributed social features."
-* [Anancus](https://gitlab.com/tuxether/anancus) - _Go_ "self-hosted and federated social link aggregation."
 * [Hubzilla](https://framagit.org/hubzilla/core) - _PHP_ "powerful platform for creating interconnected websites."
 * ![GitHub last commit](https://img.shields.io/github/last-commit/linkeddata/dokieli.svg?style=plastic) [Dokieli](https://github.com/linkeddata/dokieli) - _NodeJS_ "decentralised article publishing, annotations and social interactions."
 * ![GitHub last commit](https://img.shields.io/github/last-commit/Aardwolf-Social/aardwolf.svg?style=plastic) [Aardwolf](https://github.com/Aardwolf-Social/aardwolf) - _Rust_ "Powering connected social communities"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/cabalamat/meowcat2.svg?style=plastic) [MeowCat2](https://github.com/cabalamat/meowcat2) - _Python_ "federated blogging and social networking platform"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/dessalines/lemmy.svg?style=plastic) [Lemmy](https://github.com/dessalines/lemmy) - _Rust_ "federated alternative to reddit"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/jaywink/socialhome.svg?style=plastic) [socialhome](https://github.com/jaywink/socialhome) - _Python_ "federated personal profile"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/framasoft/mobilizon.svg?style=plastic) [MobiliZon](https://github.com/framasoft/mobilizon) - _Elixir_  "federated organization and mobilization platform. Gather people with a convivial, ethical, and emancipating tool."
-* ![GitHub last commit](https://img.shields.io/github/last-commit/mariusor/littr.go.svg?style=plastic) [Littr.me](https://github.com/mariusor/littr.go) - _Go_ "Link aggregator inspired by reddit"
+
 * ![GitHub last commit](https://img.shields.io/github/last-commit/Scarly-Cat/lamia.svg?style=plastic) [Lamia](https://github.com/Scarly-Cat/lamia) - _Python_ "Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women."
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pubcast/pubcast.svg?style=plastic) [Pubcast](https://github.com/pubcast/pubcast) - _Go_ "experimental ActivityPub based podcasting platform"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/fedimos/server.svg?style=plastic) [Fedimos](https://github.com/fedimos/server) - _NodeJS_ "End-to-End Encrypted & Decentralized Messaging Service for the Fediverse"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pterotype-project/pterotype.svg?style=plastic) [pterotype](https://github.com/pterotype-project/pterotype) - _PHP_ "WordPress plugin that expands your audience by giving your site an ActivityPub stream"
-* [Prismo](https://gitlab.com/prismosuite/prismo) - _Ruby/NodeJS_ "Federated link aggregation powered by ActivityPub."
+
 
 ## Frameworks
 * ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/little-boxes.svg?style=plastic) [Little Boxes](https://github.com/tsileo/little-boxes) -  _Python_ "both database and server agnostic."
