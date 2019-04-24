@@ -22,6 +22,7 @@ _Stable_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/tootsuite/mastodon.svg?style=plastic) [Mastodon](https://github.com/tootsuite/mastodon) - _Ruby_ "Mainstream reference design"
   * ![GitHub last commit](https://img.shields.io/github/last-commit/glitch-soc/mastodon.svg?style=plastic) [glitch-soc](https://github.com/glitch-soc/mastodon/) - "A glitchy but lovable fork"
   * ![GitHub last commit](https://img.shields.io/github/last-commit/gled-rs/mastodo.svg?style=plastic) [mastodo](https://github.com/gled-rs/mastodo) - "Implementing useful features not implemented upstream"
+  * ![GitHub last commit](https://img.shields.io/github/last-commit/florence-social/mastodon-fork.svg?style=plastic) [Florence](https://github.com/florence-social/mastodon-fork) - "Florence's fork of Mastodon"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/lambadalambda/pleroma.svg?style=plastic) [Pleroma](https://pleroma.social/) - _Elixir/Erlang_ "High Performance with seperated BE/FE design"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/syuilo/misskey.svg?style=plastic) [Misskey](https://github.com/syuilo/misskey) - _NodeJS_ "forever evolving, sophisticated microblogging platform" with lots of anime girls. 
 
