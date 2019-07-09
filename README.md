@@ -90,6 +90,7 @@ _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/dariusk/express-activitypub.svg?style=plastic) [Express ActivityPub](https://github.com/dariusk/express-activitypub) - _NodeJS_ "Reference implementation of an ActivityPub server using Express.js"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/rowanlupton/pylodon.svg?style=plastic) [pylodon](https://github.com/rowanlupton/pylodon) - _Python_ "Flask-based ActivityPub server"
 * [CommonsPub](https://gitlab.com/CommonsPub/Server) - _Elixir_ "WIP on a generic ActivityPub server: http://CommonsPub.org"
+* [Kroeg](https://puckipedia.com/kroeg) - _Rust_ "really flexible federated social media!"
 
 ## Bridges
 * [Bridgy Fed](https://fed.brid.gy/) - connects IndieWeb sites with federated social networks.
