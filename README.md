@@ -71,6 +71,9 @@ _WIP_
 _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/framasoft/mobilizon.svg?style=plastic) [MobiliZon](https://framagit.org/framasoft/mobilizon/) - _Elixir_  "federated organization and mobilization platform. Gather people with a convivial, ethical, and emancipating tool."
 
+### Public Facing Services
+* https://search.social/ - Search engine for the public posts and profiles of the Fediverse.
+
 ## Other ActivityPub enabled projects
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pump-io/pump.io.svg?style=plastic) [Pump.io](https://github.com/pump-io/pump.io) - _NodeJS_ "Social network"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/gobengo/distbin.svg?style=plastic) [Distbin](https://github.com/gobengo/distbin) - _NodeJS_ "Post bin with distributed social features."
