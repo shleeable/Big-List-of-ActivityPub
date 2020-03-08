@@ -35,6 +35,7 @@ _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/microblog.pub.svg?style=plastic) [microblog.pub](https://github.com/tsileo/microblog.pub) - _Python_ "self-hosted, single-user, ActivityPub powered microblog."
 * [Kibou](https://git.cybre.club/kibouproject/kibou) - _Rust_ "Mastodon-compatible server"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/rustodon/rustodon.svg?style=plastic) [Rustodon](https://github.com/rustodon/rustodon) - _Rust_ "Mastodon-compatible server"
+* [Honk](https://humungus.tedunangst.com/r/honk) - _Go_ "federated honk conveyance"
 
 ### Video Streaming (YouTube)
 _Stable_
