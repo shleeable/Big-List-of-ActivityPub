@@ -1,8 +1,9 @@
 # Big-List-of-ActivityPub
 > The Big List of ActivityPub Projects!
 
-* [https://activitypub.rocks/](https://activitypub.rocks/)
-* [https://www.w3.org/TR/activitypub/](https://www.w3.org/TR/activitypub/)
+* [https://activitypub.rocks/](https://activitypub.rocks/) (official site)
+* [https://socialhub.activitypub.rocks/](https://socialhub.activitypub.rocks/) (official forum)
+* [https://www.w3.org/TR/activitypub/](https://www.w3.org/TR/activitypub/) (specification)
 
 *W3 Quote:* "The ActivityPub protocol is a decentralized social networking protocol. It provides a client to server API for creating, updating and deleting content, as well as a federated server to server API for delivering notifications and content."
 
