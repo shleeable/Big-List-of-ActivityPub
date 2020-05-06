@@ -101,7 +101,7 @@ _WIP_
 
 
 ## Developer Tools
-* [FediDB](https://fedidb.org/( - _PHP_ "ActivityPub Tools for Developers - This tool is intended to help diagnose AP bugs across implementations."
+* [FediDB](https://fedidb.org/) - _PHP_ "ActivityPub Tools for Developers - This tool is intended to help diagnose AP bugs across implementations."
 
 ## Bridges
 * [Bridgy Fed](https://fed.brid.gy/) - connects IndieWeb sites with federated social networks.
