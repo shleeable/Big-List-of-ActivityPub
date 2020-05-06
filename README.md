@@ -99,6 +99,10 @@ _WIP_
 * [CommonsPub](https://gitlab.com/CommonsPub/Server) - _Elixir_ "WIP on a generic ActivityPub server: http://CommonsPub.org"
 * [Kroeg](https://puckipedia.com/kroeg) - _Rust_ "really flexible federated social media!"
 
+
+## Developer Tools
+* [FediDB](https://fedidb.org/( - _PHP_ "ActivityPub Tools for Developers - This tool is intended to help diagnose AP bugs across implementations."
+
 ## Bridges
 * [Bridgy Fed](https://fed.brid.gy/) - connects IndieWeb sites with federated social networks.
 * [ActivityPub actor](https://activitypub.actor/) - importer from centralized non-ActivityPub social networks to ActivityPub capable ones.
