@@ -32,7 +32,7 @@ _Stable_
 #### Others
 *Project* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
-[Pleroma](https://pleroma.social/) | High Performance with seperated BE/FE design | Elixir/Erlang | ? | ?
+[Pleroma](https://git.pleroma.social/pleroma/pleroma/) | High Performance with seperated BE/FE design | Elixir/Erlang | ? | ?
 [Misskey](https://github.com/syuilo/misskey) | "forever evolving, sophisticated microblogging platform" with lots of anime girls. | NodeJS | [![badge](https://img.shields.io/github/stars/syuilo/misskey.svg?style=social&label=Star&maxAge=2592000)](https://github.com/syuilo/misskey/stargazers) | [![badge](https://img.shields.io/github/last-commit/syuilo/misskey.svg)](https://github.com/syuilo/misskey)
 
 _WIP_
@@ -47,7 +47,9 @@ _WIP_
 
 ### Video Streaming (YouTube)
 _Stable_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/Chocobozzz/PeerTube.svg?style=plastic) [PeerTube](https://github.com/Chocobozzz/PeerTube) - _NodeJS_ "Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular."
+*Project* | *Description* | *Language* | *Stars* | *Last Commit*
+--- | --- | --- | --- | ---
+[PeerTube](https://github.com/Chocobozzz/PeerTube) | Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular. | NodeJS | [![badge](https://img.shields.io/github/stars/Chocobozzz/PeerTube.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Chocobozzz/PeerTube/stargazers) | [![badge](https://img.shields.io/github/last-commit/Chocobozzz/PeerTube.svg)](https://github.com/Chocobozzz/PeerTube)
 
 ### Image Sharing (Instagram)
 _Stable_
