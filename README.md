@@ -21,12 +21,14 @@
 ### Microblogging (Twitter)
 _Stable_
 #### Mastodon-Based
-* ![GitHub last commit](https://img.shields.io/github/last-commit/tootsuite/mastodon.svg?style=plastic) [Mastodon](https://github.com/tootsuite/mastodon) - _Ruby_ "Mainstream reference design"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/glitch-soc/mastodon.svg?style=plastic) [glitch-soc](https://github.com/glitch-soc/mastodon/) - "A glitchy but lovable fork"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/gled-rs/mastodo.svg?style=plastic) [mastodo](https://github.com/gled-rs/mastodo) - "Implementing useful features not implemented upstream"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/florence-social/mastodon-fork.svg?style=plastic) [Florence](https://github.com/florence-social/mastodon-fork) - "Florence's fork of Mastodon"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/hometown-fork/hometown.svg?style=plastic) [Hometown](https://github.com/hometown-fork/hometown) - "minimum code change for maximum user experience change"
-  
+*Project* | *Description* | *Language* | *Stars* | *Last Commit*
+--- | --- | --- | --- | ---
+[Mastodon](https://github.com/tootsuite/mastodon) | Mainstream reference design | Ruby | [![badge](https://img.shields.io/github/stars/tootsuite/mastodon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tootsuite/mastodon/stargazers) | [![badge](https://img.shields.io/github/last-commit/tootsuite/mastodon.svg)](https://github.com/tootsuite/mastodon)
+[glitch-soc](https://github.com/glitch-soc/mastodon) | A glitchy but lovable fork | Ruby | [![badge](https://img.shields.io/github/stars/glitch-soc/mastodon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/glitch-soc/mastodon/stargazers) | [![badge](https://img.shields.io/github/last-commit/glitch-soc/mastodon.svg)](https://github.com/glitch-soc/mastodon)
+[mastodo](https://github.com/gled-rs/mastodo) | Implementing useful features not implemented upstream | Ruby | [![badge](https://img.shields.io/github/stars/gled-rs/mastodo.svg?style=social&label=Star&maxAge=2592000)](https://github.com/gled-rs/mastodo/stargazers) | [![badge](https://img.shields.io/github/last-commit/gled-rs/mastodo.svg)](https://github.com/gled-rs/mastodo)
+[Florence](https://github.com/florence-social/mastodon-fork) | Florence's fork of Mastodon | Ruby | [![badge](https://img.shields.io/github/stars/florence-social/mastodon-fork.svg?style=social&label=Star&maxAge=2592000)](https://github.com/florence-social/mastodon-fork/stargazers) | [![badge](https://img.shields.io/github/last-commit/florence-social/mastodon-fork.svg)](https://github.com/florence-social/mastodon-fork)
+[Hometown](https://github.com/hometown-fork/hometown) | minimum code change for maximum user experience change | Ruby | [![badge](https://img.shields.io/github/stars/hometown-fork/hometown.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hometown-fork/hometown/stargazers) | [![badge](https://img.shields.io/github/last-commit/hometown-fork/hometown.svg)](https://github.com/hometown-fork/hometown)
+
 #### Others
 * [Pleroma](https://pleroma.social/) - _Elixir/Erlang_ "High Performance with seperated BE/FE design"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/syuilo/misskey.svg?style=plastic) [Misskey](https://github.com/syuilo/misskey) - _NodeJS_ "forever evolving, sophisticated microblogging platform" with lots of anime girls. 
