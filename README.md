@@ -30,8 +30,10 @@ _Stable_
 [Hometown](https://github.com/hometown-fork/hometown) | minimum code change for maximum user experience change | Ruby | [![badge](https://img.shields.io/github/stars/hometown-fork/hometown.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hometown-fork/hometown/stargazers) | [![badge](https://img.shields.io/github/last-commit/hometown-fork/hometown.svg)](https://github.com/hometown-fork/hometown)
 
 #### Others
-* [Pleroma](https://pleroma.social/) - _Elixir/Erlang_ "High Performance with seperated BE/FE design"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/syuilo/misskey.svg?style=plastic) [Misskey](https://github.com/syuilo/misskey) - _NodeJS_ "forever evolving, sophisticated microblogging platform" with lots of anime girls. 
+*Project* | *Description* | *Language* | *Stars* | *Last Commit*
+--- | --- | --- | --- | ---
+[Pleroma](https://pleroma.social/) | High Performance with seperated BE/FE design | Elixir/Erlang | ? | ?
+[Misskey](https://github.com/syuilo/misskey) | "forever evolving, sophisticated microblogging platform" with lots of anime girls. | NodeJS | [![badge](https://img.shields.io/github/stars/syuilo/misskey.svg?style=social&label=Star&maxAge=2592000)](https://github.com/syuilo/misskey/stargazers) | [![badge](https://img.shields.io/github/last-commit/syuilo/misskey.svg)](https://github.com/syuilo/misskey)
 
 _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/nextcloud/social.svg?style=plastic) [Nextcloud Social](https://github.com/nextcloud/social) - _PHP_ "Nextcloud becomes part of the federated social networks!"
