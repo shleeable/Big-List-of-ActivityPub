@@ -36,11 +36,14 @@ _Stable_
 [Misskey](https://github.com/syuilo/misskey) | "forever evolving, sophisticated microblogging platform" with lots of anime girls. | NodeJS | [![badge](https://img.shields.io/github/stars/syuilo/misskey.svg?style=social&label=Star&maxAge=2592000)](https://github.com/syuilo/misskey/stargazers) | [![badge](https://img.shields.io/github/last-commit/syuilo/misskey.svg)](https://github.com/syuilo/misskey)
 
 _WIP_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/nextcloud/social.svg?style=plastic) [Nextcloud Social](https://github.com/nextcloud/social) - _PHP_ "Nextcloud becomes part of the federated social networks!"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/tsileo/microblog.pub.svg?style=plastic) [microblog.pub](https://github.com/tsileo/microblog.pub) - _Python_ "self-hosted, single-user, ActivityPub powered microblog."
-* [Kibou](https://git.cybre.club/kibouproject/kibou) - _Rust_ "Mastodon-compatible server"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/rustodon/rustodon.svg?style=plastic) [Rustodon](https://github.com/rustodon/rustodon) - _Rust_ "Mastodon-compatible server"
-* [Honk](https://humungus.tedunangst.com/r/honk) - _Go_ "federated honk conveyance"
+*Project* | *Description* | *Language* | *Stars* | *Last Commit*
+--- | --- | --- | --- | ---
+[Nextcloud Social](https://github.com/nextcloud/social) | Nextcloud becomes part of the federated social networks! | PHP | [![badge](https://img.shields.io/github/stars/nextcloud/social.svg?style=social&label=Star&maxAge=2592000)](https://github.com/nextcloud/social/stargazers) | [![badge](https://img.shields.io/github/last-commit/nextcloud/social.svg)](https://github.com/nextcloud/social)
+[microblog.pub](https://github.com/tsileo/microblog.pub) | Self-hosted, single-user, ActivityPub powered microblog. | Python | [![badge](https://img.shields.io/github/stars/tsileo/microblog.pub.svg?style=social&label=Star&maxAge=2592000)](https://github.com/tsileo/microblog.pub/stargazers) | [![badge](https://img.shields.io/github/last-commit/tsileo/microblog.pub.svg)](https://github.com/tsileo/microblog.pub)
+[Kibou](https://git.cybre.club/kibouproject/kibou) | Mastodon-compatible server | Rust | ? | ?
+[Rustodon](https://github.com/rustodon/rustodon) | Mastodon-compatible server | Rust | [![badge](https://img.shields.io/github/stars/rustodon/rustodon.svg?style=social&label=Star&maxAge=2592000)](https://github.com/rustodon/rustodon/stargazers) | [![badge](https://img.shields.io/github/last-commit/rustodon/rustodon.svg)](https://github.com/rustodon/rustodon)
+[Honk](https://humungus.tedunangst.com/r/honk) | Federated honk conveyance | Go | ? | ?
+
 
 ### Video Streaming (YouTube)
 _Stable_
