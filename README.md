@@ -53,7 +53,9 @@ _Stable_
 
 ### Image Sharing (Instagram)
 _Stable_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/pixelfed/pixelfed.svg?style=plastic) [PixelFed](https://github.com/pixelfed/pixelfed) - _PHP_ "Free and ethical photo sharing platform"
+*Project* | *Description* | *Language* | *Stars* | *Last Commit*
+--- | --- | --- | --- | ---
+[pixelfed](https://github.com/pixelfed/pixelfed) | Free and ethical photo sharing platform | PHP | [![badge](https://img.shields.io/github/stars/pixelfed/pixelfed.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pixelfed/pixelfed/stargazers) | [![badge](https://img.shields.io/github/last-commit/pixelfed/pixelfed.svg)](https://github.com/pixelfed/pixelfed)
 
 _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/anforaProject/anfora.svg?style=plastic) [Anfora](https://github.com/anforaProject/anfora) - _Python_ "photo gallery social network"
