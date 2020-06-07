@@ -19,7 +19,6 @@
 * None :(
 
 ### Microblogging (Twitter)
-_Stable_
 #### Mastodon-Based
 *Project* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
@@ -52,7 +51,6 @@ _Stable_
 [PeerTube](https://github.com/Chocobozzz/PeerTube) | Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular. | NodeJS | [![badge](https://img.shields.io/github/stars/Chocobozzz/PeerTube.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Chocobozzz/PeerTube/stargazers) | [![badge](https://img.shields.io/github/last-commit/Chocobozzz/PeerTube.svg)](https://github.com/Chocobozzz/PeerTube)
 
 ### Image Sharing (Instagram)
-_Stable_
 *Project* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
 [pixelfed](https://github.com/pixelfed/pixelfed) | Free and ethical photo sharing platform | PHP | [![badge](https://img.shields.io/github/stars/pixelfed/pixelfed.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pixelfed/pixelfed/stargazers) | [![badge](https://img.shields.io/github/last-commit/pixelfed/pixelfed.svg)](https://github.com/pixelfed/pixelfed)
