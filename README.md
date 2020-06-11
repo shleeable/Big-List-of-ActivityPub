@@ -28,6 +28,7 @@
 [Florence](https://github.com/florence-social/mastodon-fork) | Florence's fork of Mastodon | Ruby | [![badge](https://img.shields.io/github/stars/florence-social/mastodon-fork.svg?style=social&label=Star&maxAge=2592000)](https://github.com/florence-social/mastodon-fork/stargazers) | [![badge](https://img.shields.io/github/last-commit/florence-social/mastodon-fork.svg)](https://github.com/florence-social/mastodon-fork)
 [Hometown](https://github.com/hometown-fork/hometown) | minimum code change for maximum user experience change | Ruby | [![badge](https://img.shields.io/github/stars/hometown-fork/hometown.svg?style=social&label=Star&maxAge=2592000)](https://github.com/hometown-fork/hometown/stargazers) | [![badge](https://img.shields.io/github/last-commit/hometown-fork/hometown.svg)](https://github.com/hometown-fork/hometown)
 
+
 #### Others
 *Project* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
@@ -50,22 +51,26 @@ _Stable_
 --- | --- | --- | --- | ---
 [PeerTube](https://github.com/Chocobozzz/PeerTube) | Video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular. | NodeJS | [![badge](https://img.shields.io/github/stars/Chocobozzz/PeerTube.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Chocobozzz/PeerTube/stargazers) | [![badge](https://img.shields.io/github/last-commit/Chocobozzz/PeerTube.svg)](https://github.com/Chocobozzz/PeerTube)
 
+
 ### Image Sharing (Instagram)
 *Project* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
 [pixelfed](https://github.com/pixelfed/pixelfed) | Free and ethical photo sharing platform | PHP | [![badge](https://img.shields.io/github/stars/pixelfed/pixelfed.svg?style=social&label=Star&maxAge=2592000)](https://github.com/pixelfed/pixelfed/stargazers) | [![badge](https://img.shields.io/github/last-commit/pixelfed/pixelfed.svg)](https://github.com/pixelfed/pixelfed)
+[anfora](https://github.com/anforaProject/anfora) | _WIP_ photo gallery social network | Python | [![badge](https://img.shields.io/github/stars/anforaProject/anfora.svg?style=social&label=Star&maxAge=2592000)](https://github.com/anforaProject/anfora/stargazers) | [![badge](https://img.shields.io/github/last-commit/anforaProject/anfora.svg)](https://github.com/anforaProject/anfora)
 
-_WIP_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/anforaProject/anfora.svg?style=plastic) [Anfora](https://github.com/anforaProject/anfora) - _Python_ "photo gallery social network"
 
 ### Blogging
-_Stable_
-* ![GitHub last commit](https://img.shields.io/github/last-commit/Plume-org/Plume.svg?style=plastic) [Plume](https://github.com/Plume-org/Plume) - _Rust_ "federated blogging engine"
-* ![GitHub last commit](https://img.shields.io/github/last-commit/writeas/writefreely.svg?style=plastic) [WriteFreely](https://github.com/writeas/writefreely) - _Go_ "federated blogging engine"
+*Project* | *Description* | *Language* | *Stars* | *Last Commit*
+--- | --- | --- | --- | ---
+[writefreely](https://github.com/writeas/writefreely) | federated blogging engine | GO | [![badge](https://img.shields.io/github/stars/writeas/writefreely.svg?style=social&label=Star&maxAge=2592000)](https://github.com/writeas/writefreely/stargazers) | [![badge](https://img.shields.io/github/last-commit/writeas/writefreely.svg)](https://github.com/writeas/writefreely)
+[Plume](https://github.com/Plume-org/Plume) | federated blogging engine | Rust | [![badge](https://img.shields.io/github/stars/Plume-org/Plume.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Plume-org/Plume/stargazers) | [![badge](https://img.shields.io/github/last-commit/Plume-org/Plume.svg)](https://github.com/Plume-org/Plume)
+
 
 ### Music (Soundcloud)
-_Stable_
-* [Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) - _NodeJS_ "self-hosted tribute to Grooveshark.com."
+*Project* | *Description* | *Language* | *Stars* | *Last Commit*
+--- | --- | --- | --- | ---
+[Funkwhale](https://dev.funkwhale.audio/funkwhale/funkwhale) | self-hosted tribute to Grooveshark.com | NodeJS | NA | NA
+
 
 _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/weathermen/soundstorm.svg?style=plastic) [Soundstorm](https://github.com/weathermen/soundstorm) - _Ruby_ "Federated Social Music Platform."
