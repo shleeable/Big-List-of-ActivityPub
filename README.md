@@ -100,6 +100,7 @@ _WIP_
 * ![GitHub last commit](https://img.shields.io/github/last-commit/jaywink/socialhome.svg?style=plastic) [socialhome](https://github.com/jaywink/socialhome) - _Python_ "federated personal profile"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/Scarly-Cat/lamia.svg?style=plastic) [Lamia](https://github.com/Scarly-Cat/lamia) - _Python_ "Distributed blogging, polls, and status updates powered by activitypub, python, the gay agenda, and snake women."
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pubcast/pubcast.svg?style=plastic) [Pubcast](https://github.com/pubcast/pubcast) - _Go_ "experimental ActivityPub based podcasting platform"
+* ![GitHub last commit](https://img.shields.io/github/last-commit/pfefferle/wordpress-activitypub.svg?style=plastic) [WordPress ActivityPub](https://github.com/pfefferle/wordpress-activitypub) - _PHP_ "Customizable WordPress plugin that makes per-user ActivityPub streams, and receives comments via ActivityPub"
 * ![GitHub last commit](https://img.shields.io/github/last-commit/pterotype-project/pterotype.svg?style=plastic) [pterotype](https://github.com/pterotype-project/pterotype) - _PHP_ "WordPress plugin that expands your audience by giving your site an ActivityPub stream"
 
 
