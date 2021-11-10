@@ -33,7 +33,9 @@
 *Project* | *Description* | *Language* | *Stars* | *Last Commit*
 --- | --- | --- | --- | ---
 [Pleroma](https://git.pleroma.social/pleroma/pleroma/) | High Performance with seperated BE/FE design | Elixir/Erlang | ? | ?
-[Misskey](https://github.com/syuilo/misskey) | "forever evolving, sophisticated microblogging platform" with lots of anime girls. | NodeJS | [![badge](https://img.shields.io/github/stars/syuilo/misskey.svg?style=social&label=Star&maxAge=2592000)](https://github.com/syuilo/misskey/stargazers) | [![badge](https://img.shields.io/github/last-commit/syuilo/misskey.svg)](https://github.com/syuilo/misskey)
+[Misskey](https://github.com/syuilo/misskey) | "forever evolving, sophisticated microblogging platform" with lots of anime girls." | NodeJS | [![badge](https://img.shields.io/github/stars/syuilo/misskey.svg?style=social&label=Star&maxAge=2592000)](https://github.com/syuilo/misskey/stargazers) | [![badge](https://img.shields.io/github/last-commit/syuilo/misskey.svg)](https://github.com/syuilo/misskey)
+[GoToSocial](https://github.com/superseriousbusiness/gotosocial) | GoToSocial is an ActivityPub social network server, written in Golang. | Go | [![badge](https://img.shields.io/github/stars/superseriousbusiness/gotosocial.svg?style=social&label=Star&maxAge=2592000)](https://github.com/superseriousbusiness/gotosocial/stargazers) | [![badge](https://img.shields.io/github/last-commit/superseriousbusiness/gotosocial.svg)](https://github.com/superseriousbusiness/gotosocial)
+
 
 _WIP_
 *Project* | *Description* | *Language* | *Stars* | *Last Commit*
